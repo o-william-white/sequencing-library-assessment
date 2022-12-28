@@ -1,0 +1,2 @@
+ID,forward,reverse
+sample_id,path/to/forward/reads.fq.gz,path/to/reverse/reads.fq.gz

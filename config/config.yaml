@@ -1,0 +1,11 @@
+# path to sample sheet csv with columns for ID,forward,reverse
+samples: config/samples.csv
+
+# name of output directory
+output_dir: results
+
+# path of kraken db
+kraken_db: /workspaces/groups/database/kraken2-standard-db/kraken2_standard
+
+# rank at which to count diversity in kraken output (S, G, F)
+rank: S

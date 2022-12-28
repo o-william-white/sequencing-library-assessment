@@ -1,0 +1,4 @@
+ID,forward,reverse
+SRR21814487,data/SRR21814487_1.fastq,data/SRR21814487_2.fastq
+SRR21814488,data/SRR21814488_1.fastq,data/SRR21814488_2.fastq
+SRR21814489,data/SRR21814489_1.fastq,data/SRR21814489_2.fastq
